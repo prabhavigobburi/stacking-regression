@@ -1,0 +1,1 @@
+Detailed Insurance Stacking Regression project with GridSearchCV, RF, DT, Stacking, metrics and dashboard.
